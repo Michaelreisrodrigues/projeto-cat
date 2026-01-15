@@ -1,5 +1,5 @@
 # 🛡️ Dashboard de Análise de Segurança do Trabalho (CAT)
-![Capa do Dashboard](capa_projeto.png.png) 
+![Capa](capa_projeto.png.png) 
 # 📖 Visão Geral
 Este projeto apresenta uma análise técnica e estratégica das Comunicações de Acidente de Trabalho (CAT). O grande diferencial é a integração de um pipeline de dados em Python para tratar inconsistências da base bruta, fornecendo dados limpos e confiáveis para o dashboard final.
 
