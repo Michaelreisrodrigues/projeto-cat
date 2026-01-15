@@ -1,0 +1,206 @@
+﻿Agente,Data_Acidente,Setor_Economico,Lesao,Parte_Corpo,Sexo,Tipo_Acidente,UF,Data_Nascimento,Idade
+Agente Infeccioso Ou,2025-10-29,Atividades De Atendi,Lesao Imediata,Dedo,Feminino,Típico,Bahia,1983-08-13,42.0
+Veiculo Rodoviario M,2025-10-31,Fabricacao De Alimen,"Corte, Laceracao, Fe",Localizacao Da Lesao,Masculino,Trajeto,São Paulo,2004-02-22,21.0
+"Vidraria, Fibra De V",2025-10-30,Coleta De Residuos N,"Corte, Laceracao, Fe",Coxa,Masculino,Típico,Amazonas,2000-11-27,24.0
+"Agente Do Acidente,",2025-10-29,Atividades De Atendi,"Corte, Laceracao, Fe",Mao (Exceto Punho Ou,Feminino,Típico,Goiás,1995-11-17,29.0
+Piso De Edificio - S,2025-10-13,Atividades De Public,"Distensao, Torcao",Perna,Feminino,Típico,São Paulo,1977-07-23,48.0
+Rua E Estrada - Supe,2025-10-31,Servicos Combinados,"Contusao, Esmagament",Quadris (Inclusive P,Masculino,Trajeto,São Paulo,1978-12-18,46.0
+Metal - Inclui Liga,2025-10-29,Curtimento E Outras,Fratura,"Membros Superiores,",Masculino,Típico,São Paulo,1997-03-06,28.0
+"Motocicleta, Motonet",2025-10-14,Atividades De Vigila,"Contusao, Esmagament",Partes Multiplas - A,Masculino,Trajeto,Paraná,1963-04-05,62.0
+"Vidraria, Fibra De V",2025-10-30,Educacao Infantil -,Lesao Imediata,Olho (Inclusive Nerv,Masculino,Típico,São Paulo,1975-10-01,50.0
+"Ferramenta, Maquina,",2025-10-31,Transporte Rodoviário,"Corte, Laceracao, Fe",Dedo,Masculino,Típico,Minas Gerais,1996-06-06,29.0
+Chao - Superficie Ut,2025-10-31,Atividades De Atendi,"Distensao, Torcao",Pe (Exceto Artelhos),Feminino,Trajeto,São Paulo,1996-07-05,29.0
+Chao - Superficie Ut,2025-11-01,Comercio Varejista D,"Contusao, Esmagament",Joelho,Masculino,Típico,Rio De Janeiro,2000-10-06,25.0
+Metal - Inclui Liga,2025-10-16,Comercio Atacadista,"Escoriacao, Abrasao",Mao (Exceto Punho Ou,Masculino,Típico,São Paulo,1967-12-21,57.0
+Metal - Inclui Liga,2025-10-31,Fabricacao De Artefa,Fratura,Dedo,Masculino,Típico,Minas Gerais,2003-06-04,22.0
+"Vidraria, Fibra De V",2025-10-11,Restaurantes E Outro,Lesao Imediata,Dedo,Feminino,Típico,São Paulo,2007-06-07,18.0
+Tijolo E Telha - Cer,2025-10-30,Servicos Especializa,Luxacao,Pe (Exceto Artelhos),Masculino,Típico,Sergipe,2001-01-30,24.0
+"Motocicleta, Motonet",2025-10-27,Servicos Combinados,Fratura,Articulacao Do Torno,Feminino,Trajeto,Pará,1988-06-02,37.0
+Passarela Ou Platafo,2025-10-31,Comercio Atacadista,"Contusao, Esmagament",Perna,Masculino,Típico,São Paulo,2003-08-14,22.0
+"Barril, Barrica, Bar",2025-10-30,Fabricacao De Tintas,Luxacao,Mao (Exceto Punho Ou,Masculino,Típico,São Paulo,1973-02-16,52.0
+Chao - Superficie Ut,2025-10-23,Atividades De Atendi,"Dermatose (Erupcao,",Perna,Feminino,Típico,São Paulo,1980-02-26,45.0
+"Alavanca, Pe-De-Cabr",2025-06-24,Obras Para Geracao E,Fratura,Artelho,Masculino,Típico,Maranhão,1996-10-30,28.0
+"Agente Do Acidente,",2025-10-30,Atividades De Atendi,"Corte, Laceracao, Fe",Mao (Exceto Punho Ou,Feminino,Típico,Goiás,1987-02-11,38.0
+"Frasco, Garrafa - Em",2025-10-30,Atividades De Atendi,Lesao Imediata,Dedo,Feminino,Típico,Minas Gerais,1990-02-24,35.0
+Metal - Inclui Liga,2025-10-30,Fundicao De Ferro E,"Contusao, Esmagament",Dedo,Masculino,Típico,Rio Grande Do Sul,1990-08-16,35.0
+Chave De Parafuso- F,2025-10-23,Fabricacao De Maquin,"Corte, Laceracao, Fe",Mao (Exceto Punho Ou,Masculino,Típico,São Paulo,1979-05-09,46.0
+"Ser Vivo, Nic",2025-09-16,Comercio Varejista D,"Doenca, Nic",Sistema Nervoso,Masculino,Doença,São Paulo,1998-12-07,26.0
+"Agente Do Acidente,",2025-11-01,Atividades De Atendi,Lesao Imediata,Dedo,Masculino,Típico,Pará,2006-12-27,18.0
+Ferramenta Portatil,2025-10-30,Fabricacao De Obras,"Escoriacao, Abrasao",Dedo,Masculino,Típico,Minas Gerais,1965-08-19,60.0
+Composto Metalico (D,2025-10-29,Instalacoes Eletrica,Lesao Imediata,Perna,Masculino,Típico,São Paulo,1994-06-30,31.0
+"Motocicleta, Motonet",2025-10-30,Não Informado,Lesao Imediata,Pe (Exceto Artelhos),Masculino,Trajeto,Não Informado,2003-03-25,22.0
+Ferramenta De Soldag,2025-10-27,Não Informado,"Corte, Laceracao, Fe",Braco (Entre O Punho,Masculino,Típico,Não Informado,1952-06-28,73.0
+"Motocicleta, Motonet",2025-10-15,Manutencao E Reparac,Fratura,Perna,Masculino,Típico,Pernambuco,2003-03-23,22.0
+Escada Movel Ou Fixa,2025-10-31,Consultoria Em Tecno,"Distensao, Torcao",Articulacao Do Torno,Masculino,Trajeto,São Paulo,2006-05-12,19.0
+Piso De Edificio - S,2025-10-14,"Abate De Reses, Exce",Fratura,Quadris (Inclusive P,Masculino,Típico,Acre,1969-02-03,56.0
+"Motocicleta, Motonet",2025-10-30,Não Informado,Lesao Imediata,"Membros Inferiores,",Masculino,Trajeto,Não Informado,1973-09-01,52.0
+"Maquina De Fundir, D",2025-10-31,Fabricacao De Artigo,Lesao Imediata,Dedo,Feminino,Típico,São Paulo,2007-04-18,18.0
+Agente Do Acidente I,2025-10-26,Atividades De Atendi,Lesao Imediata,Dedo,Feminino,Típico,São Paulo,1977-08-19,48.0
+"Vegetal - Planta, Ar",2025-11-01,Não Informado,"Corte, Laceracao, Fe","Cabeca, Nic",Masculino,Típico,Não Informado,1956-01-29,69.0
+Rampa - Superficie U,2025-10-31,Comercio Varejista E,"Distensao, Torcao",Pe (Exceto Artelhos),Masculino,Típico,Amazonas,2005-07-02,20.0
+"Frasco, Garrafa - Em",2025-10-19,Atividades De Apoio,Queimadura Ou Escald,Braco (Entre O Punho,Feminino,Típico,São Paulo,2002-04-20,23.0
+Serra- Ferramenta Po,2025-10-30,Reparacao E Manutenc,Fratura,Dedo,Masculino,Típico,São Paulo,1961-07-14,64.0
+"Motocicleta, Motonet",2025-10-31,Comercio Atacadista,Luxacao,Perna,Feminino,Típico,Amapá,1992-02-20,33.0
+"Motocicleta, Motonet",2025-10-28,Fabricacao De Calcad,"Contusao, Esmagament","Membros Inferiores,",Feminino,Trajeto,São Paulo,1987-10-13,38.0
+"Maquina, Nic",2025-10-31,Não Informado,"Contusao, Esmagament",Mao (Exceto Punho Ou,Masculino,Típico,Não Informado,1983-05-24,42.0
+"Andaime, Plataforma",2025-10-31,"Abate De Suinos, Ave","Contusao, Esmagament","Cabeca, Nic",Masculino,Típico,Paraná,1981-04-13,44.0
+"Puncao, Ponteiro, Va",2025-10-31,Atividades De Atendi,Lesao Imediata,Dedo,Feminino,Doença,São Paulo,1969-09-25,56.0
+Ponte Rolante - Equi,2025-10-31,Montagem De Instalac,Lesoes Multiplas,"Membros Superiores,",Masculino,Típico,Pará,1988-02-22,37.0
+"Caixa, Engradado, Ca",2025-10-25,Locacao De Mao-De-Ob,Luxacao,"Membros Inferiores,",Feminino,Típico,Rio De Janeiro,1981-06-26,44.0
+Animal Vivo,2025-10-31,Fabricacao De Acucar,Lesao Imediata,Perna,Masculino,Típico,Goiás,1962-04-20,63.0
+Veiculo Rodoviario M,2025-10-15,Hoteis E Similares,Fratura,Dedo,Feminino,Trajeto,Rio De Janeiro,2004-12-07,20.0
+Gerador - Equip. Ele,2025-10-30,Comercio Varejista D,Queimadura Ou Escald,"Membros Superiores,",Masculino,Típico,Pará,2002-04-19,23.0
+Agente Infeccioso Ou,2025-10-31,Atividades De Atendi,Lesao Imediata,Mao (Exceto Punho Ou,Feminino,Típico,Paraná,1984-04-25,41.0
+Mobiliario E Acessor,2025-10-27,Fabricação de Produtos Químicos,Lesao Imediata,Dedo,Masculino,Típico,Distrito Federal,1993-04-12,32.0
+Chao - Superficie Ut,2025-10-31,Servicos Combinados,Fratura,Pe (Exceto Artelhos),Masculino,Típico,Pará,1979-02-14,46.0
+"Tesoura, Guilhotina,",2025-10-31,Confeccao De Pecas D,"Outras Lesoes, Nic",Dedo,Feminino,Típico,Rio Grande Do Sul,1999-07-13,26.0
+Edificio - Edificio,2025-10-31,Comercio Varejista D,"Contusao, Esmagament",Mao (Exceto Punho Ou,Feminino,Típico,Minas Gerais,1997-02-17,28.0
+Veiculo Rodoviario M,2025-10-15,Comercio De Pecas E,"Escoriacao, Abrasao",Pe (Exceto Artelhos),Masculino,Trajeto,Rio De Janeiro,2004-04-14,21.0
+"Ser Vivo, Nic",2025-10-31,Atividades De Atendi,Lesao Imediata,"Cabeca, Partes Multi",Feminino,Típico,Rio Grande Do Norte,1988-05-13,37.0
+Chao - Superficie Ut,2025-10-30,Obras Para Geracao E,"Contusao, Esmagament",Punho,Masculino,Típico,Piauí,1994-01-27,31.0
+"Produto De Limpeza,",2025-10-31,"Abate De Suinos, Ave","Outras Lesoes, Nic",Olho (Inclusive Nerv,Feminino,Típico,Paraná,1993-01-18,32.0
+Chao - Superficie Ut,2025-10-25,Servicos De Catering,"Distensao, Torcao",Quadris (Inclusive P,Feminino,Típico,São Paulo,1993-04-20,32.0
+Revestimento Ceramic,2025-11-01,Aparelhamento E Outr,Lesoes Multiplas,Partes Multiplas - A,Masculino,Típico,Tocantins,2005-06-03,20.0
+"Motocicleta, Motonet",2025-10-20,Atividades De Vigila,"Escoriacao, Abrasao",Mao (Exceto Punho Ou,Masculino,Trajeto,Paraná,1981-10-08,44.0
+Rua E Estrada - Supe,2025-10-31,Obras De Instalacoes,"Escoriacao, Abrasao",Partes Multiplas - A,Feminino,Trajeto,São Paulo,2007-05-14,18.0
+Rampa - Superficie U,2025-06-24,Construcao De Edific,"Escoriacao, Abrasao",Braco (Acima Do Coto,Masculino,Típico,São Paulo,1995-02-07,30.0
+Edificio - Edificio,2025-10-18,Atividades De Atendi,"Contusao, Esmagament",Dedo,Feminino,Típico,São Paulo,1996-04-30,29.0
+"Veiculo, Nic",2025-10-28,Comercio Varejista D,Lesao Imediata,Pe (Exceto Artelhos),Feminino,Trajeto,São Paulo,1995-03-21,30.0
+"Madeira (Toro, Madei",2025-10-27,Comercio Varejista D,Inflamacao De Articu,Braco (Entre O Punho,Masculino,Típico,São Paulo,1977-09-10,48.0
+"Maquina, Nic",2025-10-28,Não Informado,"Corte, Laceracao, Fe",Mao (Exceto Punho Ou,Masculino,Típico,Não Informado,1971-08-01,54.0
+"Ferramenta, Maquina,",2025-10-31,Fabricacao De Vinho,"Escoriacao, Abrasao",Mao (Exceto Punho Ou,Feminino,Típico,Rio Grande Do Sul,1977-04-26,48.0
+Rua E Estrada - Supe,2025-08-26,Não Informado,Lesao Imediata,"Tronco, Parte Multip",Masculino,Típico,Não Informado,1989-11-04,35.0
+Agente Do Acidente I,2025-10-30,Atividades De Atendi,Lesao Imediata,Dedo,Masculino,Típico,Paraná,1989-11-13,35.0
+Animal Vivo,2025-10-31,Educacao Infantil -,"Lesao Imediata, Nic",Perna,Feminino,Trajeto,São Paulo,1982-06-09,43.0
+"Motocicleta, Motonet",2025-10-18,Atividades De Vigila,Lesao Imediata,Partes Multiplas - A,Masculino,Trajeto,Paraná,1989-09-15,36.0
+"Motocicleta, Motonet",2025-10-30,Atividades De Atendi,Lesao Imediata,Partes Multiplas - A,Feminino,Trajeto,Pará,2002-03-13,23.0
+Chao - Superficie Ut,2025-11-01,Comercio Varejista D,"Contusao, Esmagament",Artelho,Masculino,Típico,Rio De Janeiro,1963-03-20,62.0
+"Agente Do Acidente,",2025-10-31,Atividades De Atendi,"Corte, Laceracao, Fe",Dedo,Feminino,Típico,Rio Grande Do Sul,1981-09-11,44.0
+Animal Vivo,2025-10-31,Comercio Atacadista,"Outras Lesoes, Nic",Localizacao Da Lesao,Masculino,Trajeto,Mato Grosso,2001-12-09,23.0
+"Motocicleta, Motonet",2025-10-08,Atividades De Vigila,"Contusao, Esmagament",Joelho,Masculino,Trajeto,Paraná,1991-07-09,34.0
+Rua E Estrada - Supe,2025-10-30,Fabricacao De Motoci,Luxacao,Cotovelo,Masculino,Típico,Pernambuco,1999-03-31,26.0
+Ferramenta Manual Se,2025-10-20,Atividades De Atendi,"Corte, Laceracao, Fe",Dedo,Feminino,Típico,São Paulo,1988-01-14,37.0
+Motor Eletrico - Equ,2025-10-31,Atividades De Servic,"Lesao Imediata, Nic",Coxa,Masculino,Típico,Pernambuco,1965-10-16,60.0
+"Tesoura, Guilhotina,",2025-10-24,Comercio Varejista D,"Corte, Laceracao, Fe",Dedo,Masculino,Típico,São Paulo,1998-11-20,26.0
+"Faca, Facao- Ferrame",2025-10-23,Restaurantes E Outro,"Corte, Laceracao, Fe",Dedo,Masculino,Típico,Espírito Santo,1983-06-27,42.0
+Louca De Mesa E Outr,2025-10-26,Atividades De Atendi,"Lesao Imediata, Nic",Dedo,Feminino,Típico,Rio Grande Do Sul,2000-10-13,25.0
+Rua E Estrada - Supe,2025-10-24,Manutencao E Reparac,Fratura,Pe (Exceto Artelhos),Masculino,Trajeto,Mato Grosso,2002-10-21,23.0
+"Macaco (Mecanico, Hi",2025-10-31,Comercio De Pecas E,Fratura,Dedo,Masculino,Típico,São Paulo,1968-06-30,57.0
+Veiculo Rodoviario M,2025-10-31,"Portais, Provedores",Lesao Imediata,Quadris (Inclusive P,Feminino,Trajeto,São Paulo,2004-05-29,21.0
+Agua - Usar Quando O,2025-10-08,"Abate De Suinos, Ave",Queimadura Ou Escald,Mao (Exceto Punho Ou,Masculino,Típico,Paraíba,2005-03-10,20.0
+"Agente Do Acidente,",2025-10-29,Atividades De Atendi,Lesao Imediata,Dedo,Masculino,Típico,Pará,1985-10-27,40.0
+Animal Vivo,2025-10-30,Comercio Atacadista,Lesao Imediata,Abdome (Inclusive Or,Masculino,Trajeto,Maranhão,1980-07-02,45.0
+Rua E Estrada - Supe,2025-10-20,"Bancos Multiplos, Co","Outras Lesoes, Nic",Boca (Inclusive Labi,Feminino,Trajeto,Distrito Federal,1962-02-08,63.0
+Louca De Mesa E Outr,2025-06-29,Restaurantes E Outro,Luxacao,Dedo,Feminino,Típico,São Paulo,1997-05-13,28.0
+"Martelo, Malho, Marr",2025-10-27,Comercio De Pecas E,Lesao Imediata,Olho (Inclusive Nerv,Masculino,Típico,Mato Grosso Do Sul,1999-09-28,26.0
+Metal - Inclui Liga,2025-10-20,Fabricacao De Maquin,"Contusao, Esmagament",Joelho,Feminino,Típico,Paraná,1995-04-17,30.0
+"Agente Do Acidente,",2025-10-31,Atividades De Atendi,"Corte, Laceracao, Fe","Cabeca, Nic",Feminino,Trajeto,Rio Grande Do Sul,1981-10-13,44.0
+"Painel De Controle,",2025-10-31,Fabricacao De Acucar,Queimadura Ou Escald,Partes Multiplas - A,Masculino,Típico,Alagoas,1972-02-18,53.0
+"Agente Do Acidente,",2025-10-22,Atividades De Atendi,"Escoriacao, Abrasao",Perna,Feminino,Trajeto,São Paulo,1991-03-04,34.0
+"Veiculo, Nic",2025-10-30,Locacao De Automovei,Concussao Cerebral,"Cabeca, Partes Multi",Masculino,Trajeto,Minas Gerais,2006-09-09,19.0
+"Painel De Controle,",2025-10-31,Fabricacao De Acucar,Queimadura Ou Escald,"Membros Superiores,",Masculino,Típico,Alagoas,2000-02-29,25.0
+"Ser Vivo, Nic",2025-10-31,Atividades De Atendi,Lesao Imediata,Dedo,Feminino,Típico,Rio De Janeiro,1997-10-17,28.0
+"Faca, Facao- Ferrame",2025-11-01,Comercio Atacadista,"Corte, Laceracao, Fe",Mao (Exceto Punho Ou,Masculino,Típico,Rio Grande Do Sul,2003-04-08,22.0
+Chao - Superficie Ut,2025-10-30,Comercio Varejista E,Lesao Imediata,Articulacao Do Torno,Feminino,Típico,Mato Grosso,1991-06-20,34.0
+"Motocicleta, Motonet",2025-10-27,Comercio Varejista D,Fratura,"Face, Partes Multipl",Masculino,Típico,Minas Gerais,2002-08-13,23.0
+"Faca, Facao- Ferrame",2025-11-01,Fabricacao De Acucar,"Corte, Laceracao, Fe",Joelho,Masculino,Típico,Alagoas,1998-05-12,27.0
+Metal - Inclui Liga,2025-10-31,Obras De Engenharia,"Corte, Laceracao, Fe",Braco (Entre O Punho,Masculino,Típico,Paraná,1986-03-15,39.0
+Rua E Estrada - Supe,2025-10-31,Gestao De Ativos Int,Fratura,Punho,Feminino,Trajeto,Paraíba,2002-05-29,23.0
+Reacao Do Corpo A Mo,2025-09-11,Atividades Tecnicas,Lesao Imediata,"Membros Superiores,",Feminino,Doença,Minas Gerais,1996-04-28,29.0
+"Ferramenta, Maquina,",2025-10-31,Fabricacao De Pecas,"Contusao, Esmagament",Mao (Exceto Punho Ou,Masculino,Típico,Paraná,1983-02-06,42.0
+Chao - Superficie Ut,2025-10-25,Atividades De Teleat,Inflamacao De Articu,"Membros Superiores,",Feminino,Típico,Pernambuco,2002-11-02,22.0
+"Agente Do Acidente,",2025-10-10,Servicos De Engenhar,"Doenca, Nic",Sistema Nervoso,Feminino,Doença,Rio De Janeiro,1976-06-13,49.0
+"Motocicleta, Motonet",2025-10-19,Atividades De Vigila,Lesoes Multiplas,Partes Multiplas - A,Masculino,Típico,Bahia,2002-04-13,23.0
+Rua E Estrada - Supe,2025-10-31,Obras De Instalacoes,"Escoriacao, Abrasao",Partes Multiplas - A,Feminino,Trajeto,São Paulo,2007-05-17,18.0
+Agente Do Acidente I,2025-10-27,Reforma De Pneumatic,Fratura,Punho,Masculino,Típico,Mato Grosso,1990-03-13,35.0
+Veiculo Rodoviario M,2025-10-31,Transporte Rodoviário,"Escoriacao, Abrasao","Cabeca, Partes Multi",Masculino,Trajeto,Paraná,2004-07-01,21.0
+Escada Permanente Cu,2025-10-30,Hoteis E Similares,Inflamacao De Articu,Perna,Feminino,Típico,Minas Gerais,1990-04-08,35.0
+Animal Vivo,2025-10-30,Comercio Atacadista,Lesao Imediata,Abdome (Inclusive Or,Masculino,Trajeto,Maranhão,1980-07-02,45.0
+"Politriz, Lixadora,",2025-10-30,Comercio Varejista D,"Escoriacao, Abrasao",Mao (Exceto Punho Ou,Masculino,Típico,São Paulo,1979-06-18,46.0
+Veiculo Rodoviario M,2025-10-21,Fabricacao De Adubos,Fratura,Torax (Inclusive Org,Masculino,Trajeto,Minas Gerais,2004-03-16,21.0
+Mobiliario E Acessor,2025-10-30,Atividades De Atendi,"Contusao, Esmagament",Dedo,Feminino,Típico,São Paulo,1995-02-08,30.0
+Veiculo Rodoviario M,2025-10-28,Atividades De Atendi,Lesoes Multiplas,Partes Multiplas - A,Feminino,Trajeto,São Paulo,1988-01-12,37.0
+Veiculo Rodoviario M,2025-10-30,Selecao E Agenciamen,"Escoriacao, Abrasao",Pe (Exceto Artelhos),Feminino,Trajeto,Ceará,1991-08-10,34.0
+Rebitadeira- Ferrame,2025-10-31,Fabricacao De Equipa,"Escoriacao, Abrasao",Mao (Exceto Punho Ou,Feminino,Típico,Paraná,1993-07-06,32.0
+"Faca, Facao- Ferrame",2025-10-01,Restaurantes E Outro,"Corte, Laceracao, Fe",Mao (Exceto Punho Ou,Feminino,Trajeto,Alagoas,1984-09-25,41.0
+Chao - Superficie Ut,2025-10-29,Comercio Varejista D,"Escoriacao, Abrasao",Pe (Exceto Artelhos),Masculino,Trajeto,São Paulo,2003-05-06,22.0
+Rua E Estrada - Supe,2025-08-07,Transporte Rodoviário,"Corte, Laceracao, Fe",Pe (Exceto Artelhos),Masculino,Típico,Paraná,1980-05-11,45.0
+Chao - Superficie Ut,2025-10-31,Fabricacao De Instru,Fratura,Dedo,Feminino,Típico,Amazonas,1976-12-16,48.0
+"Esforco Excessivo, N",2025-10-29,Atividades De Associ,Inflamacao De Articu,Ombro,Feminino,Doença,São Paulo,1974-06-19,51.0
+"Faca, Facao- Ferrame",2025-10-31,Fabricacao De Acucar,"Corte, Laceracao, Fe",Dedo,Masculino,Típico,Pernambuco,1987-02-23,38.0
+Cadeira Banco - Mobi,2025-10-31,Limpeza Em Predios E,Fratura,Pe (Exceto Artelhos),Feminino,Típico,Rio Grande Do Sul,2000-03-27,25.0
+"Equip. De Guindar, N",2025-10-30,Comercio Varejista D,"Contusao, Esmagament",Joelho,Feminino,Típico,São Paulo,1981-04-25,44.0
+Rua E Estrada - Supe,2025-10-22,"Bancos Multiplos, Co",Fratura,Pe (Exceto Artelhos),Masculino,Trajeto,Paraná,1969-12-08,55.0
+"Motocicleta, Motonet",2025-11-01,Atividades De Atendi,"Escoriacao, Abrasao",Partes Multiplas - A,Masculino,Trajeto,Minas Gerais,1984-04-12,41.0
+Rua E Estrada - Supe,2025-10-30,Comercio Varejista E,Lesao Imediata,Braco (Acima Do Coto,Feminino,Trajeto,Amazonas,2004-09-22,21.0
+Metal - Inclui Liga,2025-10-31,Fabricacao De Estrut,"Corte, Laceracao, Fe",Braco (Entre O Punho,Masculino,Típico,Minas Gerais,1977-03-23,48.0
+Metal - Inclui Liga,2025-10-30,Producao De Tubos De,"Corte, Laceracao, Fe","Membros Superiores,",Masculino,Típico,Rio Grande Do Sul,1983-02-25,42.0
+Queda De Pes. Com Di,2025-10-31,Transporte Rodoviário,"Distensao, Torcao",Pe (Exceto Artelhos),Masculino,Típico,Minas Gerais,1999-05-14,26.0
+"Agente Do Acidente,",2025-09-25,Comercio Atacadista,"Doenca, Nic",Sistema Nervoso,Masculino,Doença,Rio De Janeiro,1979-05-28,46.0
+Metal - Inclui Liga,2025-10-31,Fabricação de Produtos Químicos,"Contusao, Esmagament",Dedo,Masculino,Típico,São Paulo,1986-09-28,39.0
+Chave De Porca Ou De,2025-10-29,Fabricacao De Alcool,Fratura,"Face, Partes Multipl",Masculino,Típico,Goiás,1989-08-28,36.0
+"Motocicleta, Motonet",2025-10-24,Construcao De Edific,"Escoriacao, Abrasao",Partes Multiplas - A,Masculino,Trajeto,Amapá,1995-04-11,30.0
+"Ser Vivo, Nic",2025-10-21,Atividades De Apoio,Lesao Imediata,Mao (Exceto Punho Ou,Feminino,Típico,Rio De Janeiro,1996-03-12,29.0
+Veiculo Rodoviario M,2025-10-22,Fabricacao De Alcool,Fratura,Perna,Masculino,Trajeto,Paraíba,1983-05-07,42.0
+Impacto Sofrido Por,2025-03-19,Administracao Public,Luxacao,Perna,Feminino,Típico,Distrito Federal,1983-11-10,41.0
+Chao - Superficie Ut,2025-10-31,Obras Para Geracao E,"Outras Lesoes, Nic",Braco (Acima Do Coto,Masculino,Típico,Piauí,1999-08-23,26.0
+Calcada Ou Caminho P,2025-10-31,Educacao Infantil -,Fratura,Articulacao Do Torno,Feminino,Trajeto,São Paulo,2006-03-20,19.0
+"Motocicleta, Motonet",2025-10-28,Coleta De Residuos N,"Escoriacao, Abrasao",Joelho,Masculino,Trajeto,Amazonas,1978-04-07,47.0
+Escada Movel Ou Fixa,2025-10-22,Comercio Varejista D,Luxacao,Joelho,Masculino,Típico,Pará,1993-09-15,32.0
+Agente Do Acidente I,2025-10-28,Transporte Rodoviário,"Outras Lesoes, Nic","Cabeca, Partes Multi",Masculino,Típico,Minas Gerais,1999-07-15,26.0
+Piso De Veiculo - Su,2025-10-13,Comercio Varejista D,Amputacao Ou Enuclea,Dedo,Masculino,Trajeto,São Paulo,1996-02-28,29.0
+Chao - Superficie Ut,2025-10-23,Servicos De Catering,Luxacao,Partes Multiplas - A,Feminino,Típico,São Paulo,1981-09-02,44.0
+Agua - Usar Quando O,2025-10-29,Servicos Combinados,Queimadura Ou Escald,Perna,Masculino,Típico,Ceará,1997-03-02,28.0
+"Vidraria, Fibra De V",2025-10-29,Atividades De Atendi,"Corte, Laceracao, Fe",Dedo,Feminino,Típico,Rio De Janeiro,1991-10-07,34.0
+Escada Permanente Cu,2025-10-27,Atividades De Atendi,Lesao Imediata,Pe (Exceto Artelhos),Feminino,Típico,Santa Catarina,1989-04-28,36.0
+"Veiculo, Nic",2025-10-30,Locacao De Automovei,"Lesao Imediata, Nic","Cabeca, Partes Multi",Masculino,Trajeto,Minas Gerais,1996-12-20,28.0
+Ferramenta Manual Se,2025-10-30,Atividades De Atendi,"Corte, Laceracao, Fe",Mao (Exceto Punho Ou,Feminino,Típico,São Paulo,1996-09-04,29.0
+"Veiculo, Nic",2025-10-27,Educacao Infantil -,Queimadura Ou Escald,Mao (Exceto Punho Ou,Feminino,Típico,Rio De Janeiro,1991-12-03,33.0
+Esforco Excessivo Ao,2025-10-30,"Abate De Suinos, Ave",Inflamacao De Articu,Dorso (Inclusive Mus,Masculino,Doença,Paraná,1972-11-06,53.0
+Plastico - Inclui Po,2025-10-31,Fabricação de Produtos Químicos,"Contusao, Esmagament",Dedo,Masculino,Típico,Rio Grande Do Sul,1994-12-31,30.0
+Produto Biologico (S,2025-10-30,Atividades De Atendi,Lesao Imediata,Dedo,Feminino,Típico,São Paulo,1981-08-03,44.0
+"Motocicleta, Motonet",2025-10-31,Atividades De Public,"Contusao, Esmagament",Joelho,Masculino,Trajeto,Ceará,1984-12-18,40.0
+Escada Permanente Cu,2025-10-11,Transporte Rodoviário,"Distensao, Torcao",Perna,Feminino,Típico,Bahia,1986-11-01,38.0
+"Vegetal - Planta, Ar",2025-10-31,Fabricacao De Acucar,"Escoriacao, Abrasao","Cabeca, Partes Multi",Masculino,Típico,Pernambuco,1999-09-21,26.0
+"Motocicleta, Motonet",2025-10-08,Atividades De Vigila,"Contusao, Esmagament",Joelho,Masculino,Trajeto,Paraná,1978-01-24,47.0
+Chao - Superficie Ut,2025-09-11,Servicos De Catering,"Distensao, Torcao",Articulacao Do Torno,Masculino,Típico,Rio De Janeiro,1999-06-06,26.0
+Ferramenta Manual Se,2025-10-31,Não Informado,Lesoes Multiplas,Quadris (Inclusive P,Masculino,Típico,Não Informado,1982-11-17,42.0
+"Liquido, Nic",2025-10-21,"Abate De Suinos, Ave",Lesao Imediata,Olho (Inclusive Nerv,Masculino,Típico,Paraíba,1990-02-03,35.0
+Veiculo Rodoviario M,2025-10-31,Manutencao E Reparac,Lesao Imediata,Partes Multiplas - A,Masculino,Trajeto,Espírito Santo,2004-06-24,21.0
+Não Informado,2025-10-13,Educacao Infantil -,"Doenca, Nic",Sistema Nervoso,Feminino,Doença,Distrito Federal,1983-07-14,42.0
+Osso - Produto Anima,2025-10-31,Servicos Combinados,Fratura,Dedo,Masculino,Típico,Rio De Janeiro,2000-04-02,25.0
+Rua E Estrada - Supe,2025-10-31,Servicos Combinados,"Outras Lesoes, Nic",Articulacao Do Torno,Masculino,Típico,Rio De Janeiro,2006-06-11,19.0
+"Veiculo, Nic",2025-10-31,Transporte Rodoviário,Lesao Imediata,"Cabeca, Nic",Masculino,Trajeto,Maranhão,1968-12-08,56.0
+Metal - Inclui Liga,2025-10-31,Fabricacao De Artefa,Fratura,Dedo,Masculino,Típico,Paraná,2000-12-26,24.0
+"Esforco Excessivo, N",2025-11-01,Comercio Varejista D,Inflamacao De Articu,Joelho,Masculino,Típico,São Paulo,2002-07-06,23.0
+Escada Permanente Cu,2025-10-31,Comercio Varejista E,Fratura,Perna,Feminino,Trajeto,São Paulo,1994-09-24,31.0
+"Ferramenta, Maquina,",2025-10-25,Fabricacao De Alimen,"Escoriacao, Abrasao",Torax (Inclusive Org,Feminino,Típico,São Paulo,1979-03-10,46.0
+Rampa - Superficie U,2025-10-16,Atividades De Cobran,Fratura,Punho,Masculino,Típico,Maranhão,1961-11-10,63.0
+Metal - Inclui Liga,2025-10-31,"Abate De Reses, Exce","Contusao, Esmagament","Cabeca, Nic",Feminino,Típico,São Paulo,1995-11-09,29.0
+Metal - Inclui Liga,2025-10-31,Fabricacao De Pecas,"Distensao, Torcao",Braco (Entre O Punho,Masculino,Típico,Minas Gerais,1982-07-20,43.0
+Chao - Superficie Ut,2025-10-27,Servicos De Catering,Luxacao,Partes Multiplas - A,Feminino,Típico,São Paulo,1975-04-12,50.0
+Condutor - Equip. El,2025-10-30,Obras Para Geracao E,Choque Eletrico E El,Torax (Inclusive Org,Masculino,Típico,Pará,1989-11-09,35.0
+"Barril, Barrica, Bar",2025-10-31,Fabricação de Produtos Químicos,"Corte, Laceracao, Fe",Mao (Exceto Punho Ou,Masculino,Típico,São Paulo,2006-08-01,19.0
+Queda De Pes. Em Mes,2025-05-14,Administracao Public,"Escoriacao, Abrasao",Perna,Feminino,Típico,Distrito Federal,1983-11-10,41.0
+"Ferramenta, Maquina,",2025-10-24,Fabricacao De Alcool,Lesao Imediata,Dedo,Masculino,Típico,Paraíba,1982-02-24,43.0
+Rampa - Superficie U,2025-10-28,Comercio Varejista D,"Distensao, Torcao",Pe (Exceto Artelhos),Feminino,Típico,Rio De Janeiro,2002-10-31,23.0
+Veiculo Rodoviario M,2025-10-11,Fabricação de Produtos Químicos,Fratura,Braco (Entre O Punho,Masculino,Trajeto,Mato Grosso Do Sul,2005-09-27,20.0
+Rua E Estrada - Supe,2025-09-05,Servicos Combinados,Fratura,Punho,Masculino,Trajeto,São Paulo,1978-02-08,47.0
+Veiculo Rodoviario M,2025-10-30,Comercio Varejista D,"Contusao, Esmagament",Punho,Masculino,Típico,São Paulo,1996-12-22,28.0
+"Maquina De Fundir, D",2025-10-06,Condominios Prediais,"Lesao Imediata, Nic",Olho (Inclusive Nerv,Masculino,Típico,São Paulo,1986-08-19,39.0
+"Veiculo, Nic",2025-10-21,Condominios Prediais,Luxacao,Braco (Entre O Punho,Feminino,Trajeto,Paraná,2003-04-09,22.0
+Rua E Estrada - Supe,2025-10-24,Atividades De Apoio,"Distensao, Torcao",Articulacao Do Torno,Feminino,Trajeto,Rio De Janeiro,1986-06-09,39.0
+Veiculo Rodoviario M,2025-10-31,Transporte Rodoviário,"Escoriacao, Abrasao",Pe (Exceto Artelhos),Feminino,Trajeto,Mato Grosso,1984-04-16,41.0
+Veiculo Rodoviario M,2025-10-28,Comercio Varejista D,Fratura,Perna,Feminino,Trajeto,Bahia,2001-01-04,24.0
+Rua E Estrada - Supe,2025-10-28,Atividades De Atendi,"Escoriacao, Abrasao",Coxa,Feminino,Trajeto,Alagoas,1990-05-27,35.0
+Piso De Edificio - S,2025-10-30,Fabricação de Produtos Químicos,"Contusao, Esmagament",Artelho,Feminino,Típico,Mato Grosso,2005-06-08,20.0
+"Ferramenta, Maquina,",2025-06-29,"Abate De Suinos, Ave","Distensao, Torcao",Ombro,Masculino,Típico,Paraíba,2006-11-21,18.0
+Escada Permanente Cu,2025-10-21,Obras De Instalacoes,"Outras Lesoes, Nic","Membros Superiores,",Masculino,Típico,Paraná,1981-06-18,44.0
+"Alavanca, Pe-De-Cabr",2025-10-29,Gestao De Portos E T,"Contusao, Esmagament","Face, Partes Multipl",Masculino,Típico,São Paulo,1974-10-21,51.0
+"Andaime, Plataforma",2025-11-01,Não Informado,"Contusao, Esmagament",Torax (Inclusive Org,Masculino,Típico,Não Informado,1985-10-26,40.0
+"Agente Do Acidente,",2025-10-31,Atividades De Atendi,"Outras Lesoes, Nic",Olho (Inclusive Nerv,Masculino,Típico,Rio Grande Do Sul,1978-09-13,47.0
+"Motocicleta, Motonet",2025-05-09,Comercio Varejista D,Fratura,Articulacao Do Torno,Masculino,Trajeto,Alagoas,1990-08-27,34.0
+Chao - Superficie Ut,2025-10-18,Atividades De Atendi,Luxacao,Dedo,Masculino,Trajeto,São Paulo,1978-03-23,47.0
+"Agente Do Acidente,",2025-10-28,Fabricacao De Automo,"Distensao, Torcao",Pe (Exceto Artelhos),Masculino,Típico,Goiás,1989-06-22,36.0
+"Fogo-Chama,Material",2025-10-14,Armazenamento,Envenenamento Sistem,Torax (Inclusive Org,Masculino,Doença,São Paulo,2002-07-19,23.0
+Rua E Estrada - Supe,2025-06-12,Atividades De Limpez,Lesao Imediata,Joelho,Masculino,Típico,Pará,2000-11-27,24.0
