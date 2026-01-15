@@ -68,4 +68,4 @@ Perfil Demográfico: Distribuição por gênero e faixa etária.
 
 Análise de Severidade: Top agentes causadores e tipos de lesão.
 
-Desenvolvido por Michael Reis Rodrigues LinkedIn | michaelreisrodrigues@gmail.com
+Desenvolvido por Michael Reis Rodrigues [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michaelreisr/) | michaelreisrodrigues@gmail.com
