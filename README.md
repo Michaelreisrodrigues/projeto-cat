@@ -16,17 +16,18 @@ Corrigir falhas de preenchimento e tratar dados vazios para uma análise precisa
 # 📂 Estrutura do Projeto 
 A organização do repositório segue a arquitetura abaixo, conforme visualizado no VS Code:
 
-├── 📁 .venv                        # Ambiente virtual Python
 ├── 📁 Data
 │   ├── 📁 processed                # Dados limpos para o Power BI
 │   │   └── CAT_Novembro_Final_BI.csv
 │   └── 📁 raw                      # Base de dados original (bruta)
 │       └── D.SDA.PDA.005.CAT.202511.csv
 ├── 📁 notebooks
-│   └── limpeza.ipynb               # Jupyter Notebook com o pipeline de ETL
-├── 📄 .gitignore                   # Arquivos ignorados pelo Git
+│   └── limpeza.ipynb               # Pipeline de ETL (Python)
+├── 📊 Projeto_CAT_Analise.pbix     # Relatório Final do Power BI
+├── 📄 .gitignore                   # Arquivos ignorados (ex: .venv)
 ├── 📄 README.md                    # Documentação do projeto
-└── 📄 requirements.txt             # Bibliotecas necessárias (Pandas,Numpy)
+├── 📄 capa_projeto.png.png         # Screenshot do dashboard
+└── 📄 requirements.txt             # Bibliotecas (Pandas, Numpy)
 
 # 🛠️ Tecnologias e Processos
 1. Engenharia de Dados com Python (Pandas & Numpy)
